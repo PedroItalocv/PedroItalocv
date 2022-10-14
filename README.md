@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Pedro Ítalo 👋
 
-- 🔭 Ainda não estou trabalhando na área de dev...
 - 🌱 Desenvolvendo minha primeira aplicação front-end profissional... 
 - 👯 Estarei adentrando na área da cyber security, em 4 anos estarei lá...
 - 🤔 Certo que precisarei muito do apoio de quem tem prazer em ensinar e aprender junto...
@@ -20,7 +19,6 @@
 ##
 
 <div> 
- 	<a href="https://www.twitch.tv/poderosofininho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/pedro-italo-cv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
