@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Pedro Ítalo 👋
 
-- 🌱 Desenvolvendo minha primeira aplicação front-end profissional com amigos da faculdade...<a href="https://github.com/PedroItalocv/encontre_aqui">Acompanhe aqui.</a>
-- 👯 Estarei adentrando na área da cyber security, em 4 anos estarei lá...
-- 🤔 Certo que precisarei muito do apoio de quem tem prazer em ensinar e aprender junto...
+- 🌱 Empreendedor ambulante - Eletricista Profissional c/ 4 years de experiências -
+- 👯 Observador de problemas em todos os âmbitos da sociedade -
+- 🤔 Não sou o jovem ideal para trabalhar para pessoas mais -
 - 💬 Estou aberto a possíveis parcerias para somar e poder compartilhar a melhor experiência que todos possam ter...
-- ⚡ Fun fact: Entrei na área de dev por dizer que a linguagem Python é difícil, sendo que nem sei o que se trata...
+- ⚡ O lema do meu desenvolvimento é "A sua satisfação me motiva a prosseguir"
 
 <div align="center">
   <a href="https://github.com/pedroitalocv">
