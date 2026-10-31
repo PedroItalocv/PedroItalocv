@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Ítalo 👋
 
-- 🌱 Empreendedor ambulante - Eletricista Profissional c/ 4 years de experiências -
+- 🌱 Empreendedor - Eletricista Profissional c/ 7 years de experiências -
 - 👯 Observador de problemas em todos os âmbitos da sociedade -
 - 🤔 Não sou o jovem ideal para trabalhar para pessoas mais - Trabalho em prol delas tem uma ≠
 - 💬 Estou aberto a possíveis parcerias para somar e poder compartilhar a melhor experiência que todos possam ter...
