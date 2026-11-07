@@ -15,6 +15,19 @@ Conheça os projetos que estou desenvolvendo e
 as tecnologias utilizadas em cada um deles.
 
 <!-- TECNOLOGIAS:INICIO -->
-_Aguardando primeira atualização automática..._
+| Projeto | Linguagens | Tecnologias adicionais |
+|---|---|---|
+| [Calculadora-el-trica](https://github.com/PedroItalocv/Calculadora-el-trica) | HTML | — |
+| [calculadora-valor-hora](https://github.com/PedroItalocv/calculadora-valor-hora) | Não detectadas | — |
+| [Compartilha_Links](https://github.com/PedroItalocv/Compartilha_Links) | CSS, HTML | — |
+| [Contact-Us-Page-](https://github.com/PedroItalocv/Contact-Us-Page-) | CSS, HTML | — |
+| [Galeria-dos-Cheirinhos](https://github.com/PedroItalocv/Galeria-dos-Cheirinhos) | HTML, CSS | — |
+| [Meu-Site-Eletrica-Pro](https://github.com/PedroItalocv/Meu-Site-Eletrica-Pro) | HTML, CSS | — |
+| [nos-rede-social](https://github.com/PedroItalocv/nos-rede-social) | HTML | — |
+| [PedroItalocv](https://github.com/PedroItalocv/PedroItalocv) | Python | — |
+| [PoderosoFinin](https://github.com/PedroItalocv/PoderosoFinin) | Não detectadas | — |
+| [Responsive-Services-Section-Using-Html-and-CSS](https://github.com/PedroItalocv/Responsive-Services-Section-Using-Html-and-CSS) | CSS, HTML | — |
+| [teste-noite](https://github.com/PedroItalocv/teste-noite) | HTML | — |
+| [teste-noite-2](https://github.com/PedroItalocv/teste-noite-2) | HTML | — |
 <!-- TECNOLOGIAS:FIM -->
 
