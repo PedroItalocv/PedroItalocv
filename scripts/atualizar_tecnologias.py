@@ -88,6 +88,61 @@ def detectar_frameworks(repo):
 
     return sorted(encontrados)
 
+# Ícones disponíveis em https://skillicons.dev
+MAPA_ICONES = {
+    "HTML": "html",
+    "CSS": "css",
+    "JavaScript": "js",
+    "TypeScript": "ts",
+    "Python": "py",
+    "Shell": "bash",
+    "Java": "java",
+    "C": "c",
+    "C++": "cpp",
+    "C#": "cs",
+    "Go": "go",
+    "Rust": "rust",
+    "PHP": "php",
+    "Ruby": "ruby",
+    "Kotlin": "kotlin",
+    "Swift": "swift",
+    "Dart": "dart",
+    "SCSS": "sass",
+    "Sass": "sass",
+    "Lua": "lua",
+    "R": "r",
+    "Vue.js": "vue",
+    "React": "react",
+    "Next.js": "nextjs",
+    "Vite": "vite",
+    "Express": "express",
+    "Tailwind CSS": "tailwind",
+    "Angular": "angular",
+    "NestJS": "nestjs",
+    "Prisma": "prisma",
+    "Django": "django",
+    "Flask": "flask",
+    "FastAPI": "fastapi",
+    "Docker": "docker",
+}
+
+def mostrar_icones(tecnologias, vazio="—"):
+    icones = list(dict.fromkeys(
+        MAPA_ICONES[nome] for nome in tecnologias if nome in MAPA_ICONES
+    ))
+    sem_icone = [nome.replace("|", "\\|") for nome in tecnologias
+                 if nome not in MAPA_ICONES]
+    if not icones:
+        return ", ".join(sem_icone) or vazio
+    descricao = ", ".join(nome for nome in tecnologias if nome in MAPA_ICONES)
+    imagem = (
+        '<img src="https://skillicons.dev/icons?i='
+        + ",".join(icones)
+        + '" height="28" alt="' + descricao + '" />'
+    )
+    return " ".join([imagem] + sem_icone)
+
+
 linhas = [
     "| Projeto | Linguagens | Tecnologias adicionais |",
     "|---|---|---|"
@@ -116,8 +171,8 @@ while True:
         frameworks = detectar_frameworks(nome)
 
         titulo = nome.replace("|", "\\|")
-        langs = ", ".join(linguagens.keys()) or "Não detectadas"
-        techs = ", ".join(frameworks) or "—"
+        langs = mostrar_icones(list(linguagens), "Não detectadas")
+        techs = mostrar_icones(frameworks)
 
         linhas.append(
             f"| [{titulo}]({repo['html_url']}) "
